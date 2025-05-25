@@ -19,11 +19,11 @@ This project showcases the use of MATLAB for audio signal processing and image a
 
 ## Audio Processing
 
-Three audio files were analyzed, each with the same signal of interest but different background noise types. The goal was to identify and filter out the noise frequencies.
+Three audio files were analysed, each with the same signal of interest but different background noise types. The goal was to identify and filter out the noise frequencies.
 
 ### Process
 
-1. **Fourier Analysis**: FFT was used to visualize frequency components.
+1. **Fourier Analysis**: FFT was used to visualise frequency components.
 2. **Noise Frequencies Identified**:
    - **Audio 1**: 600 Hz
    - **Audio 2**: 150 Hz
