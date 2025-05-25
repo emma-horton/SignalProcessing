@@ -2,7 +2,7 @@
 
 This project showcases the use of MATLAB for audio signal processing and image analysis. It includes scripts for filtering background noise from audio recordings and performing basic image operations such as color segmentation using k-means clustering and edge detection.
 
-## 🔧 Features
+## Features
 
 - Audio signal filtering using Fast Fourier Transform (FFT)
 - Background noise identification and removal
@@ -10,14 +10,14 @@ This project showcases the use of MATLAB for audio signal processing and image a
 - Edge detection and grayscale conversion
 - Frequency domain analysis
 
-## 🗂️ Project Structure
+## Project Structure
 ``` bash
 ├── AudioProcessing/      # MATLAB scripts for filtering noisy audio signals
 ├── ImageAnalysis/        # Image segmentation and edge detection scripts
 ├── Report/               # Summary report of methodology and results
 ```
 
-## 🔊 Audio Processing
+## Audio Processing
 
 Three audio files were analyzed, each with the same signal of interest but different background noise types. The goal was to identify and filter out the noise frequencies.
 
@@ -36,7 +36,7 @@ Three audio files were analyzed, each with the same signal of interest but diffe
 - Retained integrity of the original signal
 - FFT plots confirmed the removal of targeted frequencies
 
-## 🖼️ Image Analysis
+## Image Analysis
 
 Image processing focused on enhancing and segmenting images using color and edge-based methods.
 
@@ -53,18 +53,18 @@ Image processing focused on enhancing and segmenting images using color and edge
 - Demonstrated contrast between clustered color segments and grayscale/edge versions
 
 
-## 💡 Learnings & Reflections
+## Learnings & Reflections
 
 - Gained practical experience working in both the time and frequency domains.
 - Explored the use of unsupervised learning (k-means) for visual data.
 - Improved MATLAB proficiency for signal/image processing tasks.
 
-## 📌 How to Run
+## How to Run
 
 1. Open MATLAB.
 2. Navigate to the desired script directory (`AudioProcessing/` or `ImageAnalysis/`).
 3. Run the `.m` scripts directly or use `live scripts` for interactive analysis.
 
-## 📬 Feedback
+## Feedback
 
 Feel free to open issues or submit pull requests for improvements!
