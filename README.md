@@ -1,4 +1,4 @@
-# Signal and Image Processing with MATLAB
+# Spectral Filtering and Visual Segmentation using MATLAB
 
 This project showcases the use of MATLAB for audio signal processing and image analysis. It includes scripts for filtering background noise from audio recordings and performing basic image operations such as color segmentation using k-means clustering and edge detection.
 
